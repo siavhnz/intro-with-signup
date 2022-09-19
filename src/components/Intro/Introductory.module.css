@@ -24,3 +24,35 @@
     text-align: center;
     margin-top: 1.5rem
 }
+
+@media (min-width: 70em) { /* 1120px */
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        max-width:69.5rem;
+        margin: 1.5rem;
+    }
+
+    .intro {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .title {
+        max-width: none;
+        font-size:3.075rem;
+        line-height: 3.5rem;
+        text-align: left;
+        padding-right: 2rem;
+        margin-top: 0.25rem;
+    }
+
+    .desc {
+        text-align: left;
+        padding-right: 2rem;
+        margin-top: 1.75rem;
+    }
+
+}

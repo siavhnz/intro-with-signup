@@ -29,3 +29,9 @@
     bottom: 1rem;
     transform: scale(0.8);
 }
+
+@media (min-width: 70em) { /* 1120px */
+    .input {
+        padding: 1.125rem 2rem;
+    }
+}

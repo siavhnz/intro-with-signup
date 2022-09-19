@@ -53,3 +53,16 @@
     color: var(--primary-red);
     font-weight: 600;
 }
+
+
+@media (min-width: 70em) { /* 1120px */
+    .signup {
+        margin: 0;
+        max-width: 33.75rem;
+        margin-left: auto;
+    }
+
+    .form {
+        padding: 2.5rem;
+    }
+}

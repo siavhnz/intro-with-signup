@@ -50,7 +50,7 @@ Users should be able to:
 
 - Working on mobile design based on `design` folder and `style-guide.md` file
 
-- 
+- working on desktop design based on `design` folder
 
 ### Built with
 
