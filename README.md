@@ -48,17 +48,19 @@ Users should be able to:
 - Identifying and creating components (Thinking in reusability)
   - Introductory, SignupForm, TextInput
 
+- Working on mobile design based on `design` folder and `style-guide.md` file
+
+- 
+
 ### Built with
 
+- [React](https://reactjs.org/)
+- [CSS Modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet)
+- Mobile-first workflow
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
 
 ### What I learned
 
@@ -66,7 +68,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [HSL to HEX](https://htmlcolors.com/hsl-to-hex) - I use this site in my solution to convert HSL to HEX colors
+- [HSL to HEX](https://htmlcolors.com/hsl-to-hex) - I use this site in my solutions to convert HSL to HEX colors
+
+- [CSS Tailwind Preflight](https://tailwindcss.com/docs/preflight) - A great CSS reset
 
 ## Author
 

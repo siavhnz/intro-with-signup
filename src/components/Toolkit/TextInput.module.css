@@ -1,0 +1,31 @@
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    font-size: 0.9rem;
+    font-weight: 500;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    padding: 1rem 1.125rem;
+    color: var(--dark-blue);
+}
+
+.input::placeholder {
+    color: var(--dark-blue);
+}
+
+.input:active,
+.input:focus {
+    outline: none;
+    border-color: var(--grayish-blue);
+}
+
+.error-icon {
+    position: absolute;
+    right: 0.5rem;
+    bottom: 1rem;
+    transform: scale(0.8);
+}
