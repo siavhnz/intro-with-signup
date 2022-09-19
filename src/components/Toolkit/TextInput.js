@@ -14,6 +14,9 @@ const TextInput = ({ placeholder, type }) => {
         focusable="false"
         aria-hidden="true"
       />
+      <span className={styleUtils["error-message"]}>
+        this field cannot be empty
+      </span>
     </div>
   );
 };

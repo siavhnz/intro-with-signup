@@ -25,13 +25,25 @@
 
 .error-icon {
     position: absolute;
-    right: 0.5rem;
-    bottom: 1rem;
+    right: 1.5rem;
+    bottom: 2.75rem;
     transform: scale(0.8);
+}
+
+.error-message {
+    color: var(--primary-red);
+    font-size: 0.75rem;
+    font-weight: 500;
+    align-self: flex-end;
+    margin-top: 0.5rem;
 }
 
 @media (min-width: 70em) { /* 1120px */
     .input {
         padding: 1.125rem 2rem;
     }
+    .error-icon {
+        transform: scale(1);
+    }
+
 }
