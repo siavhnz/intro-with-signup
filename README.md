@@ -36,6 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution: [frontendmentor.io](https://your-solution-url.com)
+
 - Live Site: [netlify.app](https://your-live-site-url.com)
 
 ## My process
@@ -43,6 +44,9 @@ Users should be able to:
 ### Workflow
 
 - Preparing workflow (Installing React, Adding assets, Preparing README.md)
+
+- Identifying and creating components (Thinking in reusability)
+  - Introductory, SignupForm, TextInput
 
 ### Built with
 
@@ -62,7 +66,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com)
+- [HSL to HEX](https://htmlcolors.com/hsl-to-hex) - I use this site in my solution to convert HSL to HEX colors
 
 ## Author
 
