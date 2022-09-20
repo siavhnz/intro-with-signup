@@ -39,6 +39,10 @@
     letter-spacing: 0.075rem;
 }
 
+.submit-btn:hover {
+    background-color: var(--primary-green-hover);
+}
+
 .terms-message {
     font-size: 0.7rem;
     text-align: center;

@@ -66,7 +66,14 @@ Users should be able to:
 
 ### What I learned
 
+I learned how to create a reusable component and used `forwardRef` for this purpose
+
+Also in this challenge, after I tried with `useState` and it failed to accomplish form validity I used useReducer. 
+I understood for multiple related states I must use useReducer
+
 ### Continued development
+
+More practice in React, That's it
 
 ### Useful resources
 
@@ -74,13 +81,23 @@ Users should be able to:
 
 - [CSS Tailwind Preflight](https://tailwindcss.com/docs/preflight) - A great CSS reset
 
+- [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- github - [@siavhnz](https://www.your-site.com)
 
-
+- Frontend Mentor - [@siavhnz](https://www.frontendmentor.io/profile/siavhnz)
 
 ## Acknowledgments
+
+Thanks To
+
+[Fuji](https://stackoverflow.com/users/418400/fuji) for this answer to creating [range](https://stackoverflow.com/a/10050831/3925013) in javascript 
+
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+
+[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension
+
+
 
