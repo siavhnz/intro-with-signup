@@ -52,6 +52,8 @@ Users should be able to:
 
 - working on desktop design based on `design` folder
 
+- Working on validation functionality
+
 ### Built with
 
 - [React](https://reactjs.org/)
