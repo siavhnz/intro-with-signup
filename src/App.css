@@ -14,3 +14,11 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+@media (min-width: 70em) { /* 1120px */
+  body {
+    background-image: url("./images/bg-intro-desktop.png");  
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
