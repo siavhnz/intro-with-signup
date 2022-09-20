@@ -35,9 +35,9 @@ Users should be able to:
 
 ### Links
 
-- Solution: [frontendmentor.io](https://your-solution-url.com)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-y67S-RKrmM)
 
-- Live Site: [netlify.app](https://your-live-site-url.com)
+- Live Site: [netlify.app](intro-cm-with-signup.netlify.app)
 
 ## My process
 
@@ -54,6 +54,8 @@ Users should be able to:
 
 - Working on validation functionality
 
+- Publishing on github.com | netlify.app | frontendmentor.io
+
 ### Built with
 
 - [React](https://reactjs.org/)
@@ -69,7 +71,7 @@ Users should be able to:
 I learned how to create a reusable component and used `forwardRef` for this purpose
 
 Also in this challenge, after I tried with `useState` and it failed to accomplish form validity I used useReducer. 
-I understood for multiple related states I must use useReducer
+I understood for multiple related states it's better to use useReducer
 
 ### Continued development
 
