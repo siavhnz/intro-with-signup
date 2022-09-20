@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot/screenshot.jpg)
 
 ### Links
 
@@ -92,8 +92,6 @@ More practice in React, That's it
 ## Acknowledgments
 
 Thanks To
-
-[Fuji](https://stackoverflow.com/users/418400/fuji) for this answer to creating [range](https://stackoverflow.com/a/10050831/3925013) in javascript 
 
 [Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
 
