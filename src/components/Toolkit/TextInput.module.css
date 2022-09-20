@@ -23,6 +23,10 @@
     border-color: var(--grayish-blue);
 }
 
+.input.error {
+    border-color: var(--primary-red);
+}
+
 .error-icon {
     position: absolute;
     right: 1.5rem;

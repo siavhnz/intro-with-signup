@@ -6,8 +6,15 @@ const TextInput = React.forwardRef((props, ref) => {
   const { placeholder, type, validity } = { ...props };
   const { hasError, errorMessage } = { ...validity };
 
+  // Handle error state
   let error = "";
+  let inputClasses = styleUtils.input;
+
   if (hasError) {
+    // Give input a border red on error state
+    inputClasses = `${styleUtils.input} ${styleUtils.error}`;
+
+    // show icon and a message on error state
     error = (
       <>
         <ErrorIcon
@@ -24,7 +31,7 @@ const TextInput = React.forwardRef((props, ref) => {
     <div className={styleUtils.container}>
       <input
         ref={ref}
-        className={styleUtils.input}
+        className={inputClasses}
         type={type}
         placeholder={placeholder}
       />
